@@ -1,0 +1,54 @@
+div .todo{
+    margin: 20px 200px;
+    width: 600px;
+    
+
+} 
+div .todoInfo{
+
+   height: 30px;
+}
+.todoInfo{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+
+button{
+    margin-left: 10px;
+    
+}
+
+.button{
+    background: greenyellow;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.editar {
+    background: green;
+    color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 800;
+    
+    
+}
+.borrar {
+    background: red;
+    color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 800;
+    
+}
+
+p{
+    margin-right: 100px;
+    
+}
+

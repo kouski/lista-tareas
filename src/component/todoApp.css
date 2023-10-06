@@ -1,0 +1,22 @@
+form {
+    margin: 100px auto;
+    
+}
+
+.todoInput{
+    border: none;
+    width: 40%;
+    margin-left: 200px;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 1.3rem;
+}
+
+.buttonCreate{
+    height: 30px;
+    margin-left: 20px;
+    border-radius: 5px;
+    padding: 0 10px;
+    background: lightsalmon;
+    cursor: pointer;
+}
